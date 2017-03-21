@@ -1,12 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="options" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="UserNotFound.php" type="PLAIN_TEXT" />
+      <mapping pattern="options" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="vue" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
