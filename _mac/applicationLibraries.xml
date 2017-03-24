@@ -13,11 +13,6 @@
       <SOURCES />
     </library>
     <library name="fetch" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_fetch_1.0.0_fetch.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_fetch_1.0.0_fetch.js" />
       </CLASSES>
